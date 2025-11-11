@@ -1,0 +1,17 @@
+{
+  "name": "streaming-oz",
+  "version": "1.0.0",
+  "description": "Streaming simples para O Maravilhoso Mágico de Oz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "type": "commonjs"
+}
