@@ -26,7 +26,13 @@ const movieCache = {
     '1054867': {
         url: 'https://superflixapi.asia/filme/tt30144839',
         timestamp: Date.now()
+    },
+
+    '1084199': {
+        url: 'https://superflixapi.asia/filme/tt26584495',
+        timestamp: Date.now()
     }
+
     // SE VOCÊ PEGAR UM NOVO LINK NO CELULAR, ADICIONE AQUI ASSIM:
     // 'ID_DO_TMDB': { url: 'LINK_DO_IFRAME', timestamp: Date.now() },
 }; 

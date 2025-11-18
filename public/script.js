@@ -24,6 +24,13 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Uma Batalha Após a Outra (Hidden Strike)', 
             year: '2023',
             image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/2peYXW6CoruehDnKJGMjl2NuaNB.jpg'
+        },
+
+         { 
+            tmdbId: '1084199', 
+            title: 'Acompanhante Perfeita', 
+            year: '2025',
+            image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqcMaESCbgxSlFWDOW9icz3MoiL.jpg'
         }
     ];
 
