@@ -99,11 +99,11 @@ streaming-telatsa/
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile.PNG" alt="Descrição" width="800px">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile.PNG" alt="Descrição" width="300px">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile2.PNG" alt="Descrição" width="800px">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile2.PNG" alt="Descrição" width="300px">
 </p>
 
 
