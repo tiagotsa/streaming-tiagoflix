@@ -421,7 +421,8 @@ Projeto desenvolvido por:
 
 # 📃 Licença
 
-Este projeto está sob licença ISC.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tiagotsa/streaming-tiagoflix/blob/main/LICENSE)
+
 
 ---
 
