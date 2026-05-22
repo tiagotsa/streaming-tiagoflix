@@ -1,5 +1,8 @@
 # 🎬 Streaming TelaTSA
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tiagotsa/streaming-tiagoflix/blob/main/LICENSE)
+
+
 Sistema web de streaming de filmes desenvolvido com Node.js, Express e JavaScript puro, utilizando integração dinâmica com APIs externas para carregamento automático de players de vídeo.
 
 ---
