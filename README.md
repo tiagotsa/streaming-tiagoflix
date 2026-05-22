@@ -82,19 +82,28 @@ streaming-telatsa/
 ## 📱 Telas da Aplicação
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/catalogo-filmes.PNG" alt="Descrição" width="800px">
 </p>
 
-## 📱 Telas da Aplicação
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/player-filme.PNG" alt="Descrição" width="800px">
 </p>
 
-## 📱 Telas da Aplicação
+
+<div align="center">
+
+### Mobile
+
+</div>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile.PNG" alt="Descrição" width="800px">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/streaming-tiagoflix/mobile2.PNG" alt="Descrição" width="800px">
 </p>
 
 
