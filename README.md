@@ -78,6 +78,26 @@ streaming-telatsa/
 
 ---
 
+
+## 📱 Telas da Aplicação
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+</p>
+
+## 📱 Telas da Aplicação
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+</p>
+
+## 📱 Telas da Aplicação
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagotsa/readme-assets/main/iptv-streaming/HomePage.PNG" alt="Descrição" width="800px">
+</p>
+
+
 # ⚙️ Funcionamento da Aplicação
 
 ## Fluxo do Sistema
